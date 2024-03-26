@@ -8,7 +8,7 @@
 }
 
 body {
-  height: 100vh;
+  height: 110vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -32,6 +32,8 @@ p{
   height: 600px;
   box-shadow: inset 100px 20px 100px rgba(0,0,0,.15), 30px 0 50px rgba(0,0,0,0.3);
   border-radius: 1rem;
+  margin-bottom: 3%;
+  position: relative;
 }
 
 .text{
